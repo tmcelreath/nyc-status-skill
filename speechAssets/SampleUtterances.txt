@@ -1,0 +1,178 @@
+AlternateSideIntent about parking status
+AlternateSideIntent parking status
+AlternateSideIntent about alternate side rules
+AlternateSideIntent about alternate side parking rules
+AlternateSideIntent about parking status today and tomorrow
+AlternateSideIntent parking status today and tomorrow
+AlternateSideIntent if alternate side is in effect
+AlternateSideIntent if it's in effect
+AlternateSideIntent if it's on
+AlternateSideIntent about parking
+AlternateSideIntent about today
+AlternateSideIntent move my car
+AlternateSideIntent street cleaning
+AlternateSideIntent about parking status {Date}
+AlternateSideIntent parking status {Date}
+AlternateSideIntent about alternate side rules {Date}
+AlternateSideIntent about alternate side parking rules {Date}
+AlternateSideIntent if alternate side is in effect {Date}
+AlternateSideIntent if it's in effect {Date}
+AlternateSideIntent if it's on {Date}
+AlternateSideIntent about parking {Date}
+AlternateSideIntent move my car {Date}
+AlternateSideIntent street cleaning {Date}
+AlternateSideIntent about parking status on {Date}
+AlternateSideIntent parking status {Date}
+AlternateSideIntent about alternate side rules on {Date}
+AlternateSideIntent about alternate side parking rules on {Date}
+AlternateSideIntent if alternate side is in effect on {Date}
+AlternateSideIntent if it's in effect on {Date}
+AlternateSideIntent about parking on {Date}
+AlternateSideIntent move my car on {Date}
+AlternateSideIntent street cleaning on {Date}
+PublicSchoolIntent school
+PublicSchoolIntent schools
+PublicSchoolIntent public school
+PublicSchoolIntent public schools
+PublicSchoolIntent about school
+PublicSchoolIntent about public school
+PublicSchoolIntent about schools
+PublicSchoolIntent about public schools
+PublicSchoolIntent if school's open
+PublicSchoolIntent is school open
+PublicSchoolIntent if school's cancelled
+PublicSchoolIntent if school's closed
+PublicSchoolIntent if it's a snow day
+PublicSchoolIntent if it's a no school day
+PublicSchoolIntent if public school's on
+PublicSchoolIntent if public school's open
+PublicSchoolIntent is public school open
+PublicSchoolIntent if public school's cancelled
+PublicSchoolIntent if public school's closed
+PublicSchoolIntent if public it's a snow day
+PublicSchoolIntent if public school's on
+PublicSchoolIntent school {Date}
+PublicSchoolIntent schools {Date}
+PublicSchoolIntent public school {Date}
+PublicSchoolIntent public schools {Date}
+PublicSchoolIntent about school {Date}
+PublicSchoolIntent about public school {Date}
+PublicSchoolIntent about schools {Date}
+PublicSchoolIntent about public schools  {Date}
+PublicSchoolIntent if school's open {Date}
+PublicSchoolIntent is school open {Date}
+PublicSchoolIntent if school's cancelled  {Date}
+PublicSchoolIntent if school's closed {Date}
+PublicSchoolIntent if it's a snow day {Date}
+PublicSchoolIntent if it's a no school day {Date}
+PublicSchoolIntent if public school's on {Date}
+PublicSchoolIntent if public school's open {Date}
+PublicSchoolIntent is public school open {Date}
+PublicSchoolIntent if public school's cancelled {Date}
+PublicSchoolIntent if public school's closed {Date}
+PublicSchoolIntent if public it's a snow day {Date}
+PublicSchoolIntent if public school's on {Date}
+PublicSchoolIntent school on {Date}
+PublicSchoolIntent schools on {Date}
+PublicSchoolIntent public school on {Date}
+PublicSchoolIntent public schools on {Date}
+PublicSchoolIntent about school on {Date}
+PublicSchoolIntent about public school on {Date}
+PublicSchoolIntent about schools on {Date}
+PublicSchoolIntent about public schools on {Date}
+PublicSchoolIntent if school's open {Date}
+PublicSchoolIntent if school's open on {Date}
+PublicSchoolIntent is school open on {Date}
+PublicSchoolIntent if school's cancelled on {Date}
+PublicSchoolIntent if school's closed on {Date}
+PublicSchoolIntent if it's a snow day on {Date}
+PublicSchoolIntent if it's a no school day on {Date}
+PublicSchoolIntent if public school's on on {Date}
+PublicSchoolIntent if public school's open on {Date}
+PublicSchoolIntent is public school open on {Date}
+PublicSchoolIntent if public school's cancelled on {Date}
+PublicSchoolIntent if public school's closed on {Date}
+PublicSchoolIntent if public it's a snow day on {Date}
+PublicSchoolIntent if public school's on on {Date}
+GarbageRecyclingIntent is garbage collection happening
+GarbageRecyclingIntent is garbage on schedule
+GarbageRecyclingIntent is garbage pickup happening
+GarbageRecyclingIntent is garbage pickup on schedule
+GarbageRecyclingIntent garbage
+GarbageRecyclingIntent recycling
+GarbageRecyclingIntent garbage and recycling
+GarbageRecyclingIntent garbage pickup
+GarbageRecyclingIntent garbage and recycling pickup
+GarbageRecyclingIntent recycling pickup
+GarbageRecyclingIntent about garbage
+GarbageRecyclingIntent about recycling
+GarbageRecyclingIntent about garbage and recycling
+GarbageRecyclingIntent is garbage and recycling collection happening
+GarbageRecyclingIntent is garbage and recycling on schedule
+GarbageRecyclingIntent is garbage and recycling pickup happening
+GarbageRecyclingIntent is garbage and recycling pickup on schedule
+GarbageRecyclingIntent is recycling collection happening
+GarbageRecyclingIntent is recycling on schedule
+GarbageRecyclingIntent is recycling pickup happening
+GarbageRecyclingIntent is recycling pickup on schedule
+GarbageRecyclingIntent is garbage collection happening
+GarbageRecyclingIntent is garbage on schedule
+GarbageRecyclingIntent is garbage pickup happening
+GarbageRecyclingIntent is garbage pickup on schedule
+GarbageRecyclingIntent garbage {Date}
+GarbageRecyclingIntent recycling {Date}
+GarbageRecyclingIntent garbage and recycling {Date}
+GarbageRecyclingIntent garbage pickup {Date}
+GarbageRecyclingIntent garbage and recycling pickup {Date}
+GarbageRecyclingIntent recycling pickup {Date}
+GarbageRecyclingIntent about garbage {Date}
+GarbageRecyclingIntent about recycling {Date}
+GarbageRecyclingIntent about garbage and recycling {Date}
+GarbageRecyclingIntent is garbage collection happening on {Date}
+GarbageRecyclingIntent is recycling collection happening {Date}
+GarbageRecyclingIntent is garbage and recycling collection happening {Date}
+GarbageRecyclingIntent is garbage and recycling on schedule {Date}
+GarbageRecyclingIntent is garbage and recycling pickup happening {Date}
+GarbageRecyclingIntent is garbage and recycling pickup on schedule {Date}
+GarbageRecyclingIntent is recycling collection happening {Date}
+GarbageRecyclingIntent is recycling on schedule {Date}
+GarbageRecyclingIntent is garbage pickup happening {Date}
+GarbageRecyclingIntent is recycling pickup happening {Date}
+GarbageRecyclingIntent is recycling pickup on schedule {Date}
+GarbageRecyclingIntent garbage on {Date}
+GarbageRecyclingIntent recycling on {Date}
+GarbageRecyclingIntent garbage and recycling on {Date}
+GarbageRecyclingIntent garbage pickup on {Date}
+GarbageRecyclingIntent garbage and recycling pickup on {Date}
+GarbageRecyclingIntent recycling pickup on {Date}
+GarbageRecyclingIntent about garbage on {Date}
+GarbageRecyclingIntent about recycling on {Date}
+GarbageRecyclingIntent about garbage and recycling on {Date}
+GarbageRecyclingIntent is garbage and recycling collection happening on {Date}
+GarbageRecyclingIntent is garbage and recycling on schedule on {Date}
+GarbageRecyclingIntent is garbage and recycling pickup happening on {Date}
+GarbageRecyclingIntent is garbage and recycling pickup on schedule on {Date}
+GarbageRecyclingIntent is recycling collection happening on {Date}
+GarbageRecyclingIntent is recycling on schedule on {Date}
+GarbageRecyclingIntent is recycling pickup happening on {Date}
+GarbageRecyclingIntent is recycling pickup on schedule on {Date}
+GarbageRecyclingIntent if garbage collection is happening on {Date}
+GarbageRecyclingIntent if recycling collection is happening on {Date}
+GarbageRecyclingIntent if garbage and recycling collection is happening on {Date}
+GarbageRecyclingIntent if garbage and recycling collection is happening {Date}
+GarbageRecyclingIntent if garbage and recycling is on schedule on {Date}
+GarbageRecyclingIntent if garbage and recycling is on schedule {Date}
+GarbageRecyclingIntent if garbage and recycling pickup is happening {Date}
+GarbageRecyclingIntent if garbage and recycling pickup is happening on {Date}
+GarbageRecyclingIntent if garbage and recycling pickup is on schedule {Date}
+GarbageRecyclingIntent if garbage and recycling pickup is on schedule on {Date}
+GarbageRecyclingIntent if recycling collection is happening {Date}
+GarbageRecyclingIntent if recycling is on schedule {Date}
+GarbageRecyclingIntent if garbage pickup is happening {Date}
+GarbageRecyclingIntent if recycling pickup is happening {Date}
+GarbageRecyclingIntent if recycling pickup is on schedule {Date}
+GarbageRecyclingIntent if recycling collection is happening on {Date}
+GarbageRecyclingIntent if recycling is on schedule on {Date}
+GarbageRecyclingIntent if garbage pickup is happening on {Date}
+GarbageRecyclingIntent if recycling pickup is happening on {Date}
+GarbageRecyclingIntent if recycling pickup is on schedule on {Date}

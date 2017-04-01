@@ -1,0 +1,20 @@
+{
+  "name": "alternate-side-skill",
+  "version": "1.0.0",
+  "description": "NYC Alternate Side Parking query for Amazon Alexa.",
+  "main": "index.js",
+  "repository": "git@github.com:tmcelreath/alternate-side-skill.git",
+  "scripts": {},
+  "author": "Tim McElreath",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "async": "^1.5.2",
+    "aws-sdk": "^2.2.46",
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.12.0",
+    "moment": "^2.12.0",
+    "moment-timezone": "^0.5.3",
+    "voicelabs": "^1.0.1"
+  }
+}
